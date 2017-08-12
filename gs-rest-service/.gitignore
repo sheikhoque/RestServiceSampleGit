@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/build.gradle
+/gradlew
+/gradlew.bat
+/manifest.yml
+/mvnw
+/mvnw.cmd
